@@ -20,5 +20,5 @@ AI Customer Support is an AI-powered chatbot application designed to handle vari
 - AWS
 
 ## Demo
-- Video Demo: https://youtu.be/RujNQxEE4tw
+- Video Demo: https://youtu.be/VboT1HbuuOE?si=VYLOKEJjIlkcgnoz
 - Updated Live Demo: https://ai-customer-support-two.vercel.app
